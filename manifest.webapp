@@ -1,0 +1,17 @@
+{
+  "name": "CatchTheFox",
+  "version":  "1.0",
+  "description": "Catch The Fox!",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/icon_512.png",
+    "256": "/icon_256.png",
+    "128": "/icon_128.png",
+    "64": "/icon_64.png",
+    "32": "/icon_32.png"
+  },
+  "developer":  {
+      "name": "Sebeny Peter",
+      "url": "https://github.com/sebenyp"
+  }
+}
